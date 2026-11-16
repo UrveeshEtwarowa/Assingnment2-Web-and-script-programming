@@ -20,6 +20,8 @@ Chatgpt was used to debug and to check for grammar, punction, and professional o
 ## References:
 
     OpenAI. (2025). ChatGPT [Large language model]. https://chatgpt.com/
+
+    INFR 3120U Lecture notes
     
 
 
